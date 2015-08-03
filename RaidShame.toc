@@ -1,4 +1,4 @@
-## Interface:
+## Interface: 60200
 ## Title: Raid Shame
 ## Author: Patrick Robertson
 ## Version: 0.1.0
