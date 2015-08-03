@@ -1,0 +1,6 @@
+## Interface:
+## Title: Raid Shame
+## Author: Patrick Robertson
+## Version: 0.1.0
+
+main.lua
